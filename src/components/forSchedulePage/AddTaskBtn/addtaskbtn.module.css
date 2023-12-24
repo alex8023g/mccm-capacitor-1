@@ -1,0 +1,8 @@
+.fond {
+  position: 'absolute';
+  bottom: 15px;
+  right: 20px;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+}

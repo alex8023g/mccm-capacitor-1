@@ -1,0 +1,28 @@
+/* .thead1 tr {
+}
+
+th {
+  position: sticky;
+  top: 0;
+  background: white;
+}
+
+.th1 {
+}
+
+.tr1 {
+  height: 30px;
+}
+.td1 {
+  position: relative;
+  top: -15px;
+  padding-right: 7px;
+  text-align: end;
+  color: #4d4d4d;
+  font-size: small;
+}
+.td2 {
+  width: 100%;
+  border: 1px solid LightGrey;
+  color: green;
+} */
